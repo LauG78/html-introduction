@@ -5,10 +5,13 @@ body{
 .container-header{
     background-color: lightblue;
     box-sizing: border-box;
+    margin: -20px;
 }
 .container-content{
     background: darkseagreen;
     box-sizing: border-box;
+    border-collapse: collapse;
+    margin: -20px;
 }
 h1{
     text-align: center;
@@ -50,6 +53,8 @@ ul{
 }
 footer{
     background-color: peachpuff;
+    margin: -20px;
+    height: 40px;
 }
 .Klarida{
     color: red;
