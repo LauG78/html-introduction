@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+img{
+    width:120px;
+    border-style: solid;
+    border-color: aqua;
+    }
+#photo{
+    text-align: center;
+}
+table, th, td {
+    border-collapse: collapse;
+    border-style: solid;
+    }
+#tabel{
+    alignment: center;
+}
+th, td{
+    width:200px;
+    align-content: center;
+    border-style: double;
+    text-align: center;
+    }
+h3, h4, h5, h6 {
+    color: blue;
+    text-indent: 50px;
+}
+h1{
+    font-style: italic;
+}
