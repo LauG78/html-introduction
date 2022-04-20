@@ -1,14 +1,22 @@
 body{
-    background-color: darkseagreen;
     text-align: center;
+    background-color: antiquewhite;
+}
+.container-header{
+    background-color: lightblue;
+    box-sizing: border-box;
+}
+.container-content{
+    background: darkseagreen;
+    box-sizing: border-box;
 }
 h1{
     text-align: center;
 }
 img{
     width:120px;
-    border-style: solid;
-    border-color: aqua;
+    border-color: black;
+    border-style: double;
     }
 #photo{
     text-align: center;
@@ -21,7 +29,9 @@ table, th, td {
     margin-right: auto;
     margin-left: auto;
     }
-.tabel{
+.blue{
+    color: blue;
+    font-style: italic;
 }
 th, td{
     width:200px;
@@ -29,7 +39,7 @@ th, td{
     border-style: double;
     text-align: center;
     }
-h3,h4, h5, h6 {
+h3,h4 {
     color: blue;
 }
 h1{
@@ -37,4 +47,16 @@ h1{
 }
 ul{
     display:inline-block;
+}
+footer{
+    background-color: peachpuff;
+}
+.Klarida{
+    color: red;
+}
+.Laurentiu{
+    color: cyan;
+}
+.Lucas{
+    color: darkgreen;
 }
