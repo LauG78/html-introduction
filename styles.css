@@ -1,5 +1,6 @@
 body{
     background-color: darkseagreen;
+    text-align: center;
 }
 h1{
     text-align: center;
@@ -15,9 +16,12 @@ img{
 table, th, td {
     border-collapse: collapse;
     border-style: solid;
+    text-align: center;
+    background-color: goldenrod;
+    margin-right: auto;
+    margin-left: auto;
     }
-#tabel{
-    alignment: center;
+.tabel{
 }
 th, td{
     width:200px;
@@ -25,10 +29,12 @@ th, td{
     border-style: double;
     text-align: center;
     }
-h3, h4, h5, h6 {
+h3,h4, h5, h6 {
     color: blue;
-    text-indent: 50px;
 }
 h1{
     font-style: italic;
+}
+ul{
+    display:inline-block;
 }
