@@ -27,10 +27,10 @@ img{
     text-align: center;
 }
 table, th, td {
-    border-collapse: collapse;
+    border-collapse: separate;
     border-style: solid;
     text-align: center;
-    background-color: goldenrod;
+    background-color: bisque;
     margin-right: auto;
     margin-left: auto;
     }
@@ -38,7 +38,8 @@ table, th, td {
     color: blue;
 }
 th, td{
-    width:200px;
+    width:150px;
+    height: 30px;
     align-content: center;
     border-style: double;
     text-align: center;
@@ -60,7 +61,7 @@ ul{
     color: brown;
 }
 .Traveling{
-    color: orangered;
+    color: lemonchiffon;
 }
 footer{
     background-color: orange;
@@ -68,7 +69,7 @@ footer{
     height: 55px;
 }
 .Klarida{
-    color: red;
+    color: darkgreen;
     background-color: bisque;
     width: 110px;
 }
