@@ -96,5 +96,26 @@ footer{
     font-size: 1.5em;
     text-shadow: dimgray 3px 3px 5px;
 }
+.student {
+    width: 100%;
+    overflow: auto;
+    margin-left: 400px;
+    max-width: 100%
+}
 
+.student {
+    animation: 2s student;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes student {
+    from {
+        margin-left: -500px;
+    }
+
+    to {
+        margin-left: 0;
+    }
+}
 
