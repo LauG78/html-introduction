@@ -15,11 +15,13 @@ body{
 }
 h1{
     text-align: center;
+    text-shadow: steelblue 2px 2px;
 }
 img{
     width:120px;
     border-color: black;
     border-style: double;
+    border-radius: 40%;
     }
 #photo{
     text-align: center;
@@ -34,7 +36,6 @@ table, th, td {
     }
 .blue{
     color: blue;
-    font-style: italic;
 }
 th, td{
     width:200px;
@@ -44,12 +45,22 @@ th, td{
     }
 h3,h4 {
     color: blue;
+    font-family: Cursive, "Brush Script MT", cursive;
 }
 h1{
     font-style: italic;
 }
 ul{
     display:inline-block;
+}
+.Fishing{
+    color: darkgreen;
+}
+.Music{
+    color: brown;
+}
+.Traveling{
+    color: orangered;
 }
 footer{
     background-color: peachpuff;
@@ -65,3 +76,15 @@ footer{
 .Lucas{
     color: darkgreen;
 }
+.story{
+    font-size: small;
+    
+}
+.tldr{
+    font-size: large;
+}
+.student{
+    text-decoration-line: underline;
+}
+
+
