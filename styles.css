@@ -63,28 +63,37 @@ ul{
     color: orangered;
 }
 footer{
-    background-color: peachpuff;
+    background-color: orange;
     margin: -20px;
-    height: 40px;
+    height: 55px;
 }
 .Klarida{
     color: red;
+    background-color: bisque;
+    width: 110px;
 }
 .Laurentiu{
-    color: cyan;
+    color: dodgerblue;
 }
 .Lucas{
     color: darkgreen;
+    background-color: bisque;
+    width: 110px;
 }
 .story{
     font-size: small;
-    
+    padding-left: 100px;
+    padding-right: 100px;
 }
 .tldr{
     font-size: large;
 }
 .student{
     text-decoration-line: underline;
+}
+#reason{
+    font-size: 1.5em;
+    text-shadow: dimgray 3px 3px 5px;
 }
 
 
